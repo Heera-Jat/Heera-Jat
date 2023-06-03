@@ -8,8 +8,10 @@
 - ⚡ Fun fact: Blockchain is my first IT crush
 - 
 Connect with me
-<a href="https://www.linkedin.com/in/heera-jat/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3669739" height="100" /></a>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+ <img href="https://www.linkedin.com/in/heera-jat/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_3669739" height="100" /></img>
 </div>
+
+
