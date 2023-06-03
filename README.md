@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning DSA, Web3 Devlopment
 - 👯 I’m looking to collaborate on Hackathons' & Team work
 - ⚡ Fun fact: Blockchain is my first IT crush
+
+---
 - 📫 How to reach me: 🔗 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></div>
@@ -34,7 +36,11 @@
 
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heera-Jat)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Heera-Jat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Heera-Jat)](https://git.io/streak-stats) 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
+###
+> "Self-belief and hard work will always earn you success." :- ***Virat Kohli***
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
