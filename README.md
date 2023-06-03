@@ -1,9 +1,5 @@
-### Hi I'm Heera Jat 👋
+ Hi I'm Heera Jat 👋
 
-
-<-- **Heera-Jat/Heera-Jat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Front-end Web & Dapp dev.
 - 🌱 I’m currently learning DSA, Web3 Devlopment
