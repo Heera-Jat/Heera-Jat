@@ -51,12 +51,6 @@
   <a href="https://twitter.com/0xHeera?s=20"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></div></a>
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
-
----
-
 
 <!-- ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heera-Jat)](https://github.com/anuraghazra/github-readme-stats)
