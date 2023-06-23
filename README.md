@@ -1,10 +1,15 @@
- ### Hi ! I'm Heera Jat 👋
+ <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+
+### Hi ! I'm Heera Jat 👋
 
 
 - 🔭 I’m currently working on Front-end Web & Dapp dev.
 - 🌱 I’m currently learning DSA, Web3 Devlopment
 - 👯 I’m looking to collaborate on Hackathons' & Team work
 - ⚡ Fun fact: Blockchain is my first IT crush
+
+ 
+ 
 
 ---
 > "Self-belief and hard work will always earn you success." :- ***Virat Kohli***
@@ -42,8 +47,7 @@
 
 ---
 
- 📫 How to reach me: 🔗 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/heera-jat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ 📫 How to reach me: 🔗 <div id="badges" align="center"> <a href="https://www.linkedin.com/in/heera-jat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/0xHeera?s=20"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></div></a>
 
 
@@ -58,7 +62,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heera-Jat)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Heera-Jat)](https://git.io/streak-stats) 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes) 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+-->
 ###
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
