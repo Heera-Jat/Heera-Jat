@@ -3,7 +3,7 @@
 ### Hi ! I'm Heera Jat 👋
 
 
-- 🔭 I’m currently working on Front-end Web & Dapp dev.
+- 🔭 I’m currently working on Front-end Web & Dapps dev.
 - 🌱 I’m currently learning DSA, Web3 Devlopment.
 - 👯 I’m looking to collaborate on Hackathons & Team work.
 - ⚡ Fun fact: Blockchain is my first IT crush. 
