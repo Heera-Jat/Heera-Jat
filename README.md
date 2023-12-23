@@ -1,6 +1,6 @@
  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
-### Hi ! I'm Heera Jat 👋
+### Hi ! I'm Heera Jat  👋
 
 
 - 🔭 I’m currently working on Front-end Web & Dapps dev.
